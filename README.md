@@ -2,13 +2,10 @@
 
 ## Description
 Proof of Interaction is a smart contract that logs user interactions with timestamps. It records each interaction and allows users to track their engagement on-chain.
-
-smart contract address- 0xA6F533A3D12631d57e44F0603Dd2618240074060
-
+ 
 ## Smart Contract Address
-```
-<Insert Smart Contract Address Here>
-```
+```0xA6F533A3D12631d57e44F0603Dd2618240074060
+
 
 ## Features
 - Logs user interactions with timestamps
